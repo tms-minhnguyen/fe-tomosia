@@ -1,0 +1,23 @@
+# Loại bỏ thư mục node_modules
+node_modules/
+
+# Loại bỏ các file build và output của dự án Vue
+dist/
+out/
+build/
+
+# Loại bỏ các file môi trường
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# Loại bỏ các file log và cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode/
+.idea/
+.DS_Store

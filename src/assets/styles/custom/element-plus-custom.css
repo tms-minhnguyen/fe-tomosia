@@ -1,0 +1,9 @@
+.el-loading-spinner .el-loading-text {
+  color: #226ace !important;
+}
+.el-loading-spinner .path {
+  stroke: #226ace !important;
+}
+.el-pager li.is-active {
+  background-color: #226ace !important;
+}

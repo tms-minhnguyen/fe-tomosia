@@ -1,0 +1,7 @@
+/* @import './element-index.css';
+@import './custom/element-plus-custom.css'; */
+@import './style.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
